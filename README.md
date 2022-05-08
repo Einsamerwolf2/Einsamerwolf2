@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning cybersec.
 - 💞️ I’m looking to collaborate on  some python projects or some fun projets to help other grown'...
-- 📫 How to reach me? So its easy you can contact me on my official profile on twitter...
+- 📫 How to reach me? So its easy you can contact me on my official profile on twitter, @einsamerwolf98
+
 
 <!---
 Einsamerwolf2/Einsamerwolf2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
