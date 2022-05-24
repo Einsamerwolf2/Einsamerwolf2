@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Einsamerwolf2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning cybersec.
-- 💞️ I’m looking to collaborate on  some python projects or some fun projets to help other grown'...
-- 📫 How to reach me? So its easy you can contact me on my official profile on twitter, @einsamerwolf98
+- 👋 Hi, I’m Edilson Enoque also known as @Einsamerwolf, I'm a Hacker, Player, Gamer and what else?
+- The skiddie, network engineering and administrator, passionate with malware analysis and reverse engineering
+- Corrently work as bug bounty hunter ctf player
 
 
 <!---
